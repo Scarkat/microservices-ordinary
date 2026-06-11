@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-QuerieApplication<tarea>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.queries.querie.QuerieApplication",
+            "projectName": "tarea",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
