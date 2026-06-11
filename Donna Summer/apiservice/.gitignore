@@ -1,0 +1,53 @@
+# ==========================================
+# Archivos de compilación (Maven / Java)
+# ==========================================
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.log
+
+# ==========================================
+# Entornos de desarrollo (IDEs)
+# ==========================================
+# Visual Studio Code
+.vscode/
+
+# ==========================================
+# Archivos del Sistema Operativo
+# ==========================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.fuse_hidden*
+
+# ==========================================
+# Seguridad y Configuraciones Locales
+# ==========================================
+# Nunca subir variables de entorno locales o secretos
+.env
+.env.local
+.env.*
+*.properties.local
+application-secret.yml
+application-local.yml
+
+# ==========================================
+# Otros
+# ==========================================
+HELP.md
+.mtj.tmp/
+*.bak
+*.swp

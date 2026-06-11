@@ -1,0 +1,14 @@
+# Java
+**/target/
+**/*.jar
+**/*.class
+
+# Node / Frontend
+**/node_modules/
+**/dist/
+
+# Logs y Temporales
+*.log
+.DS_Store
+.idea/
+.vscode/
